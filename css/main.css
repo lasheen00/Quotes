@@ -1,0 +1,32 @@
+
+section h1
+{
+    font-size: 100px;
+    font-weight: 900;
+    padding-bottom: 40px;
+    
+}
+
+section p
+{
+    font-size: 30px;
+}
+
+
+section button
+{
+    padding: 20px 40px;
+    margin: 20px;
+    font-size: x-large;
+    font-weight: 800;
+    border: 2px solid #000;
+    border-radius: 30px;  
+    transition: all .5s ease-in-out;
+
+}
+section button:hover
+{
+    color: #fff;
+    background-color: black;
+    border: 2px solid #fff;
+}
